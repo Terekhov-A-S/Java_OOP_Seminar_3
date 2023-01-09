@@ -9,6 +9,7 @@ public class Main {
 
         System.out.println("_-#-_-#-_-#-_-#-_-#-_-#-_-#-_-#-_-#-_-#-_-#-_-#-_-#-_-#-_-#-_");
 
+
         List<Student> listStudents = new ArrayList<>();
         listStudents.add(new Student("Сидашов", LocalDate.of(2002, 10, 19), 4.9f));
         listStudents.add(new Student("Романов", LocalDate.of(2001, 12, 12), 5.0f));
