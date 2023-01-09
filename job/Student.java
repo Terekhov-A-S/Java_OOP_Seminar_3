@@ -14,6 +14,7 @@ public class Student {
     private LocalDate date;
     private float averageMark;
 
+
     @Override
     public String toString() {
         return "Student{" +
